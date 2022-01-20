@@ -1,0 +1,1 @@
+# cloudformation-cross-stac-ref
